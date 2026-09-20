@@ -1,3 +1,7 @@
-BinaryTree BinaryTree::BinaryTree() {
+BinaryTree::BinaryTree(int& arrayRepresentation) {
+  
+}
+
+~BinaryTree::BinaryTree() {
   
 }
