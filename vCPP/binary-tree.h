@@ -4,4 +4,6 @@ class BinaryTree {
     ~BinaryTree() {};
     BinaryTree left;
     BinaryTree right;
+  
+    BinaryTree createInOrder();
 }
