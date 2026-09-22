@@ -1,6 +1,6 @@
 class BinaryTree {
   public:
-    BinaryTree() {};
+    BinaryTree(int[] &array) {};
     ~BinaryTree() {};
     BinaryTree left;
     BinaryTree right;
