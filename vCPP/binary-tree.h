@@ -21,6 +21,7 @@ class BinaryTree {
     ~BinaryTree() {};
     BinaryTree left;
     BinaryTree right;
-  
+
+    // Helper Method: Recurses array to create left and right trees.
     BinaryTree createInOrder();
 }
